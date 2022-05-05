@@ -1,4 +1,4 @@
-### UI-Focused Web Developer👋
+### Software Developer👋
 
 - 🔭 I’m currently working on ... C# application
 - 🌱 I’m currently learning ... C#
